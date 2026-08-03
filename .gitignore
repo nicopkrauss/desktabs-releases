@@ -1,0 +1,5 @@
+# DMGs live as GitHub Release assets, not in git. This directory doubles as the
+# staging area generate_appcast needs, so build artifacts land here locally.
+*.dmg
+*.delta
+old_updates/
