@@ -3,6 +3,19 @@
     <channel>
         <title>DeskTabs</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Mon, 03 Aug 2026 01:11:30 -0700</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[## Maintenance
+
+Verifies the automatic update path end to end. No functional changes.
+]]></description>
+            <enclosure url="https://github.com/nicopkrauss/desktabs-releases/releases/download/v1.1.1/DeskTabs-1.1.1.dmg" length="3814808" type="application/octet-stream" sparkle:edSignature="YAtnEGYjs/pkax226wYD1MHPhdYD429GyB8IJIswWqb52Y/RVm8+mkXHf1HqOneHnh1Q8YJndGoh/MKhmRUABQ=="/>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Mon, 03 Aug 2026 01:06:51 -0700</pubDate>
             <sparkle:version>11</sparkle:version>
